@@ -1,2 +1,3 @@
+<<<<<<< HEAD
 line 1 in master new version
-line 2
+i m minal
