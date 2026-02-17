@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
 line 1 in master new version
 i m minal
 i m going to bali
+line 4
